@@ -5,10 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=sahan-99&label=Profile%20views&color=blue&style=plastic" alt="sahan-99" />
 </p>
 
-<p align="center"> 
+<p align="left"> 
   🌱 I’m currently pursuing a <strong>Bachelor of Information Technology</strong> at Saegis Campus <br>
   💬 Ask me about <strong>Java, HTML, PHP, Kotlin, and more</strong> <br>
   📫 Reach me at <strong>sahansandaruwan1021@gmail.com</strong>
+</p>
+
+<h3 align="right">📊 My Most Used Languages</h3>
+<p align="right">
+  <a href="https://github.com/sahan-99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan-99&layout=compact&langs_count=8&theme=radical" alt="Sahan's Most Used Languages" />
+  </a>
 </p>
 
 <h3 align="center">🌐 Connect with me:</h3>
@@ -64,10 +71,5 @@
   </a>
 </p>
 
-<h3 align="center">📊 My Most Used Languages</h3>
-<p align="center">
-  <a href="https://github.com/sahan-99">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan-99&layout=compact&langs_count=8&theme=radical" alt="Sahan's Most Used Languages" />
-  </a>
-</p>
+
 
