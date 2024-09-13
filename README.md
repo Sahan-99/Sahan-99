@@ -1,20 +1,65 @@
 <h1 align="center">Hi 👋, I'm Sahan Sandaruwan</h1>
-<h3 align="center">Undergraduate IT Student at Saegis Campus</h3>
+<h3 align="center">Undergraduate IT Student | Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahan-99&label=Profile%20views&color=0e75b6&style=flat" alt="sahan-99" /> </p>
-
-- 🌱 I’m currently learning **Bachelor of Information Technology Degree**
-
-- 💬 Ask me about **java, html, php and etc**
-
-- 📫 How to reach me **sahansandaruwan1021@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/sahan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahan sandaruwan" height="30" width="40" /></a>
-<a href="https://fb.com/sahan sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahan sandaruwan" height="30" width="40" /></a>
-<a href="https://sahans.online" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="sahan sandaruwan" height="30" width="30" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahan-99&label=Profile%20views&color=blue&style=plastic" alt="sahan-99" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  🌱 I’m currently pursuing a <strong>Bachelor of Information Technology</strong> at Saegis Campus <br>
+  💬 Ask me about <strong>Java, HTML, PHP, Kotlin, and more</strong> <br>
+  📫 Reach me at <strong>sahansandaruwan1021@gmail.com</strong>
+</p>
+
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/sahan99" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Sahan Sandaruwan LinkedIn" />
+  </a>
+  <a href="https://fb.com/sahan.sandaruwan" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Sahan Sandaruwan Facebook" />
+  </a>
+  <a href="https://sahans.online" target="_blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-domain-internet-cyberspace-hosting-web-wired-shadow-tal-revivo.png" alt="Sahan Sandaruwan Website" />
+  </a>
+</p>
+
+<h3 align="center">🛠️ Languages and Tools:</h3>
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  </a>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
+  </a>
+</p>
