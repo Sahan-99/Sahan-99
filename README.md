@@ -8,7 +8,8 @@
 <table align="center">
   <tr>
     <td>
-      - 🌱 I’m currently learning **Bachelor of Information Technology Degree**
+      
+- 🌱 I’m currently learning **Bachelor of Information Technology Degree**
 
 - 💬 Ask me about **java, html, php and etc**
 
