@@ -63,3 +63,11 @@
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" />
   </a>
 </p>
+
+<h3 align="center">📊 My Most Used Languages</h3>
+<p align="center">
+  <a href="https://github.com/sahan-99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan-99&layout=compact&langs_count=8&theme=radical" alt="Sahan's Most Used Languages" />
+  </a>
+</p>
+
