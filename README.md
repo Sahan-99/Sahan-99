@@ -16,7 +16,7 @@
 - 📫 How to reach me **contact@sahans.online**
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan-99&layout=compact&theme=dracula" alt="Sahan's Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan-99&layout=compact&theme=white" alt="Sahan's Most Used Languages" />
     </td>
   </tr>
 </table>
