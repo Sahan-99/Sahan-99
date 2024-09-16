@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/sahan99" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn - Sahan Sandaruwan" height="30" />
   </a>
-  <a href="[https://www.facebook.com/sahan.sandaruwan](https://web.facebook.com/sahan.sandaruwan.798/)" target="_blank">
+  <a href="https://web.facebook.com/sahan.sandaruwan.798/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook - Sahan Sandaruwan" height="30" />
   </a>
   <a href="https://sahans.online" target="_blank">
