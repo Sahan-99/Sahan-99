@@ -11,7 +11,7 @@
       
 - 🌱 I’m currently learning **Bachelor of Information Technology Degree**
 
-- 💬 Ask me about **java, html, php and etc**
+- 💬 Ask me about **Graphic design and Web development**
 
 - 📫 How to reach me **contact@sahans.online**
     </td>
