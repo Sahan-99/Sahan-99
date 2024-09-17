@@ -11,6 +11,8 @@
       
 - 🌱 I’m currently learning **Bachelor of Information Technology Degree**
 
+- 🔭 I’m currently working on **Campus Projects and Freelance work**
+
 - 💬 Ask me about **Graphic design and Web development**
 
 - 📫 How to reach me **contact@sahans.online**
