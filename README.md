@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sahan-99&label=Profile%20views&color=brightgreen&style=flat" alt="sahan-99" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan-99&layout=compact&theme=white" alt="Sahan's Most Used Languages" />
-
 <table align="center">
   <tr>
     <td>
