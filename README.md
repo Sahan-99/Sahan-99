@@ -66,11 +66,6 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sahan-99)](https://github.com/Sahan-99/github-profile-trophy)
-
-
-<br>
-
 <h2 align="center">My GitHub Contributions Summary and Stats</h2>
 <table align="center">
   <tr>
@@ -82,3 +77,7 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sahan-99)]
