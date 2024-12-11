@@ -66,7 +66,7 @@
 
 <br>
 
-https://github-profile-trophy.vercel.app/?Sahan-99=ryo-ma&theme=flat
+[![trophy](https://github-profile-trophy.vercel.app/Sahan-99ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
