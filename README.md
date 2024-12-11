@@ -66,7 +66,8 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/Sahan-99ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sahan-99)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br>
 
