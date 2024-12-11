@@ -66,6 +66,10 @@
 
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?Sahan-99=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
 <h2 align="center">My GitHub Contributions Summary and Stats</h2>
 <table align="center">
   <tr>
